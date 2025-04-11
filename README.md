@@ -10,7 +10,7 @@ Existing blockchain-based voting solutions have significant limitations:
 - **Public visibility of votes**: Many Ethereum-based voting mechanisms do not provide secret ballots, exposing voters' choices to the public.  
 - **High gas costs**: Advanced cryptographic voting protocols, such as the **Open Vote Network (OVN)**, suffer from inefficiency, as gas costs increase with the number of participants, making large-scale elections impractical.  
 
-To overcome these challenges, **János Gulácsy and I** developed an e-voting protocol that ensures **voter privacy** while keeping the transaction cost per vote constant at approximately **200k gas** (unoptimized).  
+To overcome these challenges, **I** developed an e-voting protocol that ensures **voter privacy** while keeping the transaction cost per vote constant at approximately **200k gas** (unoptimized).  
 
 ## **Key Features**  
 ✔ **Blind-Signature-Based Voting** – Voter choices remain private, ensuring secret ballots.  
