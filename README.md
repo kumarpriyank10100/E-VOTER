@@ -1,6 +1,4 @@
-Here's a well-structured project description for your blind-signature-based e-voting system on Ethereum:  
 
----
 
 # **Blind-Signature-Based E-Voting Platform on Ethereum**  
 
@@ -31,6 +29,4 @@ To overcome these challenges, **János Gulácsy and I** developed an e-voting pr
 
 This project highlights the potential of **privacy-preserving, decentralized voting** on Ethereum and opens avenues for further improvements in blockchain-based governance systems.  
 
----
 
-Would you like me to tailor it further or add specific technical details? 🚀
